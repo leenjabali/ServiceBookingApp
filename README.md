@@ -46,6 +46,9 @@ ServiceBooking.Api
 ## Notes
 - This project was built for learning and portfolio purposes.
 - Authentication is implemented in a simple form (no JWT).
+- 
+## Screenshots
+![Swagger](screenshots/swagger.png)
 
 ## Author
 **Leen Al Jabali**  
