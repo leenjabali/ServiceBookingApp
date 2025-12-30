@@ -48,7 +48,7 @@ ServiceBooking.Api
 - Authentication is implemented in a simple form (no JWT).
 - 
 ## Screenshots
-![Swagger](screenshots/swagger.png)
+![Swagger](swagger.png)
 
 ## Author
 **Leen Al Jabali**  
